@@ -14,4 +14,6 @@
  * Organize files properly
  * UI/UX improvements
  * Breaking points for (min-width: 768px, 992px,  max-width : 600px)
- * Delete all function
+ * "Delete all" function
+ * Indicator how many participants there are
+ * "Rules" tab
