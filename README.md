@@ -9,7 +9,7 @@
 <img src="/assets/2.png" alt="use case 2" height="1000px"/>
 
 
-To do
+<h2> To do </h2>
 
  * Organize files properly
  * UI/UX improvements
