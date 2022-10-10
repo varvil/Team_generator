@@ -15,9 +15,16 @@
 </style>
 <head>
 
-<header> RJS2000 </header>
+<header class="header">
 
-<body>
+	<div class="text-box">
+		<h1 class="heading-primary">
+			<span class="heading-primary-main">RJS</span>
+			<span class="heading-primary-sub">2000</span>
+            <span class="heading-primary-sub">Randomizer</span>
+		</h1>
+	</div>
+</header>
 
 <section class="form section">
     <div class="form__container">
