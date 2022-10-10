@@ -1,4 +1,4 @@
-# RJS2000 RANDOMIZER
+# RJS2000 Team generator / Randomizer
 
 [Demo](https://www.hmlsolutions.com/cloud13/rjs/index.php)
 
