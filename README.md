@@ -13,4 +13,5 @@
 
  * Organize files properly
  * UI/UX improvements
+ * Breaking points for (min-width: 768px, 992px,  max-width : 600px)
 
