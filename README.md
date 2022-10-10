@@ -5,3 +5,5 @@
 <h2>Use cases</h2>
 
 ![Alt text](/assets/1.png "Use case 1")
+
+![Alt text](/assets/2.png "Use case 1")
