@@ -17,3 +17,4 @@
  * "Delete all" function
  * Indicator how many participants there are
  * "Rules" tab
+ * Document the code
