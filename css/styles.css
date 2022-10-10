@@ -59,6 +59,21 @@ header {
     width: 100%;
 }
 
+.nayta__kaikki {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width: 40%;
+    border-bottom: 1px solid gray;
+    font-style: italic;
+    color: gray;
+}
+
+.nayta__kaikki a {
+    text-decoration: none;
+    color: #ef5668;
+}
+
 input[type=submit]   {
     all: unset;
     background: white;
@@ -79,7 +94,7 @@ input[type=submit]   {
 
 input[type=submit]:hover {
     opacity: 80%;
-    background-color: black;
+    background-color: gray;
     color: antiquewhite;
 }
 
