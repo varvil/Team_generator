@@ -69,17 +69,22 @@
 
         <div class="nayta__osallistujat">
             <h3>Participants</h3>
-            
+        
         <?php
         include 'kaikki.php';
         ?>
         </div> 
 </div>
-        
 </section>
 
+    <div class="nayta__kaikki">
+    <?php
+        include 'nayta_kaikki.php';
+        ?>
+    <a href="poista_kaikki.php">Delete all</a>
+    </div>
+
     <section class="teams__section">
-        
         <div class="teams__container">
                 <?php
                     //jos parametrit löytyvät urlista. Hae GetRandomPersons() ja kirjoita.
