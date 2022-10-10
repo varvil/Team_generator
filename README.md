@@ -4,6 +4,6 @@
 
 <h2>Use cases</h2>
 
-![Alt text](/assets/1.png "Use case 1")
+<img src="/assets/1.png" alt="use case1"/>
 
-<img src="/assets/1.png" alt="drawing" height="200"/>
+<img src="/assets/1.png" alt="use case 2" height="400"/>
