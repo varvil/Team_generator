@@ -1,5 +1,10 @@
-# Team_generator
+# Team generator
 
-Here is some new information about the assignment
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 ![Alt text](/assets/1.png "Use case 1")
