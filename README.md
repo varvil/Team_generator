@@ -1,5 +1,20 @@
-# Team_generator
+# RJS2000 Team generator / Randomizer
 
-Here is some new information about the assignment
+[Demo](https://www.hmlsolutions.com/cloud13/rjs/index.php)
 
-![Alt text](/Team_generator/assets/1.png "Use case 1")
+<h2>UI</h2>
+
+<img src="/assets/1.png" alt="use case1"/>
+
+<img src="/assets/2.png" alt="use case 2" height="1000px"/>
+
+
+<h2> To do </h2>
+
+ * Organize files properly
+ * UI/UX improvements
+ * Breaking points for (min-width: 768px, 992px,  max-width : 600px)
+ * "Delete all" function
+ * Indicator how many participants there are
+ * "Rules" tab
+ * Document the code
