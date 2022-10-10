@@ -6,4 +6,4 @@
 
 ![Alt text](/assets/1.png "Use case 1")
 
-![Alt text](/assets/2.png "Use case 1")
+![Alt text](/assets/2.png "Use case 1") height=200px
