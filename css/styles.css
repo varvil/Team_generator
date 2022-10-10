@@ -8,6 +8,7 @@
 
 body {
     margin: 0;
+    font-size: 20px;
 }
 
 header {
@@ -35,7 +36,9 @@ header {
 }
 
 #size {
+    margin-top: 1rem;
     text-align: center;
+    font-size: large;
     margin: auto;
     width: 30%;
 }
@@ -55,6 +58,7 @@ header {
 }
 
 .nayta__osallistujat h2 {
+    height: 20px;
     font-size: medium;
     width: 100%;
 }
@@ -90,6 +94,7 @@ input[type=submit]   {
     overflow: hidden;
     text-align: center;
     width: 120px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
 }
 
 input[type=submit]:hover {
@@ -109,9 +114,16 @@ input[type=submit]:hover {
     text-align: center;
 }
 
+.result {
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 400px 400px;
+}
+
 .custom__select {
-    margin-top: 3rem;
-    height: 25px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 .custom__select select {
@@ -122,21 +134,23 @@ input[type=submit]:hover {
 .team__name {
     font-size: 25px;
     width: 100%;
-    height: 40px;
+    height: 50px;
 }
 
 .result div {
-    max-width: 20%;
+    width: 60%;
     margin: auto;
     padding: 1rem;
     margin-top: 15px;
     background-color:hsl(var(--hue), var(--sat), 98%);
     border-radius: 15px;
     border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 
-.person__span {
-    font-weight: 400;
+.result div span{
+    display: inline-block;
+    margin-bottom: 5px;
 }
 
 
