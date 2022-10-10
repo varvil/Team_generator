@@ -2,4 +2,4 @@
 
 Here is some new information about the assignment
 
-Team generator
+![Alt text](/Team_generator/assets/1.png?raw=true "Use case 1")
