@@ -2,7 +2,7 @@
 
 [Demo](https://www.hmlsolutions.com/cloud13/rjs/index.php)
 
-<h2>Use cases</h2>
+<h2>UI</h2>
 
 <img src="/assets/1.png" alt="use case1"/>
 
