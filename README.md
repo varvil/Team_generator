@@ -4,9 +4,9 @@
 
 <h2>UI</h2>
 
-<img src="/assets/1.png" alt="use case1"/>
+<img src="/assets/ui1.png" alt="use case1"/>
 
-<img src="/assets/2.png" alt="use case 2" height="1000px"/>
+<img src="/assets/ui2.png" alt="use case 2"/>
 
 
 <h2> To do </h2>
