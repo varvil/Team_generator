@@ -13,6 +13,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
 </style>
+
 <head>
 
 <header class="header">
@@ -21,9 +22,9 @@
 		<h1 class="heading-primary">
 			<span class="heading-primary-main">RJS</span>
 			<span class="heading-primary-sub">2000</span>
-            <span class="heading-primary-sub">Randomizer</span>
-		</h1>
-	</div>
+            <span class="heading-primary-sub">Randomizer </span>
+            <i class="uil uil-dice-three"></i> 
+    </div>
 </header>
 
 <section class="form section">
@@ -33,7 +34,7 @@
             <h3 class="form__title">Add persons</h3>
             <form action="tallenna.php" method="post">
                     <div>
-                        <input type="text" name="nimi" required>
+                        <input type="text" name="nimi" required autofocus required>
                         <button>Add</button>
                     </div>
             </form>
