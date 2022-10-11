@@ -1,6 +1,6 @@
 # RJS2000 Team generator / Randomizer
 
-[Demo](https://www.hmlsolutions.com/cloud13/rjs/index.php)
+[Demo](https://www.hmlsolutions.com/cloud13/rjs2000/index.php)
 
 <h2>UI</h2>
 
